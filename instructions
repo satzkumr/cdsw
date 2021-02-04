@@ -1,0 +1,7 @@
+Create New project from Git in CDSW 
+
+a_) Login to CDSW 
+b_) Click "New project" on top right corner on the projects page
+c_) set the project visibility
+d_) Select "Git" on "initial setup" and paste the Git URL
+e_) Click "create project"
